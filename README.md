@@ -5,6 +5,7 @@ This project demonstrates the ability to write practical, business-relevant SQL 
 ## Table of Contents
 - [Database Structure](#database-structure)
 - [Business Use & Query Solutions](#business-use-&-query-solutions)
+- [My Challenges & Conclusion](#My-Challenges-&-Conclusion)
 
 <br>
 <br>
@@ -116,3 +117,18 @@ Estimate each customer's potential long-term value based on their activity and t
 * Output includes customer ID, name, tenure, transaction volume, and estimated CLV.
 
 📁 [View Query – Assessment\_Q4.sql](./Assessment_Q4.sql)
+
+<br>
+
+
+## ✅ My Challenges & Conclusion
+
+This SQL Proficiency Assessment provided an enriching opportunity to apply theoretical knowledge in a practical, business-oriented context. While completing the tasks, I encountered a few challenges that ultimately enhanced my understanding of SQL and database interactions.
+
+Initially, the absence of a specified SQL tool required me to explore and select a suitable environment for executing queries against simulated relational data. This experience improved my adaptability and familiarity with working across different database platforms.
+
+Navigating complex datasets with multiple tables and relationships further tested my ability to accurately interpret and implement primary and foreign key connections. By carefully planning and structuring my `INNER JOIN` operations, I ensured precise data retrieval without redundancy.
+
+Moreover, I deepened my proficiency with critical SQL functions such as `COALESCE` for managing `NULL` values and Common Table Expressions (CTEs) for breaking down multi-step analyses into readable, modular parts.
+
+Overall, this project strengthened my practical SQL skills—particularly in areas such as customer segmentation, transaction analysis, and value estimation—while also reinforcing the importance of clean, scalable query design in real-world data scenarios.
